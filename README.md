@@ -1,11 +1,78 @@
 <h1 align="center">Hi 👋, I'm Ziad Belabed</h1>
-<h3 align="center">AI and Data Science enthusiast, passionate about leveraging data and intelligent algorithms to tackle complex challenges and create innovative solutions with real-world impact.</h3>
 
-- 📫 How to reach me **ziadbelabed14@gmail.com**
+<h3 align="center">
+Master’s Student in Data Science & Artificial Intelligence | AI Engineer in progress  
+Specialized in Machine Learning, Deep Learning & Computer Vision  
+Focused on building scalable, data-driven systems to solve real-world problems
+</h3>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🚀 About Me
+
+- 🎯 AI & Data Science enthusiast focused on real-world impact
+- 🧠 Passionate about Machine Learning, Deep Learning, and Computer Vision
+- 🏗️ Interested in building intelligent systems (healthcare, banking, automation)
+- 🔬 Strong interest in turning data into actionable intelligence
+- 🌍 Goal: work on high-impact AI systems in industry or research
+
+📫 Contact: **ziadbelabed14@gmail.com**
+
+---
+
+## 🧠 Core Expertise
+
+- Machine Learning / Deep Learning
+- Computer Vision (OpenCV, CNNs)
+- Data Analysis & Data Engineering basics
+- Model training, evaluation & optimization
+- API integration & deployment basics
+
+---
+
+## ⚙️ Tech Stack
+
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="40"/>
+  <img src="https://www.tensorflow.org/images/tf_logo_social.png" width="40"/>
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40"/>
+  <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/django/django-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+## 🧩 What I Build
+
+- 🧠 AI models for classification, detection, prediction
+- 🏥 Medical imaging AI (radiology-oriented systems)
+- 📊 Data analysis pipelines
+- 🌐 Full-stack AI apps (Django / React)
+- ⚙️ REST APIs for ML models
+
+---
+
+## 📈 Current Focus
+
+- Improving Deep Learning architecture design
+- Building end-to-end AI projects (from data → deployment)
+- Strengthening production-level Python & system design
+- Preparing portfolio for AI/Data Engineer roles
+
+---
+
+## 🎯 Vision
+
+> Build intelligent systems that transform raw data into critical decisions in healthcare, finance, and industry.
+
+---
+
+## 📫 Connect
+
+- Email: **ziadbelabed14@gmail.com**
